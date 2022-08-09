@@ -1,0 +1,10 @@
+git init (for new project)
+git status
+git add.
+
+git commit-m "any message"
+
+git remote add origin ctrl+v or (paste garni)
+========>
+git push origin master
+//git remote-v
